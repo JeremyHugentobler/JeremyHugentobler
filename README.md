@@ -31,5 +31,5 @@ Welcome to my profile! I am a Computer Science graduate student at **EPFL** spec
 
 ### Connect
 
-- **LinkedIn**: [linkedin.com/in/jeremy-hugentobler](https://www.linkedin.com/in/jeremy-hugentobler)
+- **LinkedIn**: [linkedin.com/in/jeremy-hugentobler](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-hugentobler/)
 - **Email**: [jeremydoffey@gmail.com](mailto:jeremydoffey@gmail.com)
